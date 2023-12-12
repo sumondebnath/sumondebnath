@@ -14,26 +14,6 @@
 # 💞️ I’m looking to collaborate on ...
 # 📫 How to reach me ...
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-	<style>
-		.title{
-			color: red;
-			font-size: 100px;
-		}
-	</style>
-</head>
-<body>
-    <div>
-	    <h1 class="title"> Welcome</h1>
-    </div>
-</body>
-</html>
-
 		
 
 <!---
