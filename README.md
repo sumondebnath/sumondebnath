@@ -4,7 +4,7 @@
 
 <div background-image:url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg")>
    <div>
-      <h1 style="color: #FF0000">Sumon Debnath</h1>
+      <h1 align="cebter">Sumon Debnath</h1>
       <img>
    </div>
 </div>
