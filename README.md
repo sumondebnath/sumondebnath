@@ -3,8 +3,8 @@
 </div>
 
 <div background-image:url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg")>
-   <div>
-      <h1 align="cebter">Sumon Debnath</h1>
+   <div align="center">
+      <h1>Sumon Debnath</h1>
       <img>
    </div>
 </div>
