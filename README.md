@@ -5,7 +5,7 @@
 <div background-image:url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg")>
    <div align="center">
       <h1>Sumon Debnath</h1>
-      <img>
+      <img > </img>
    </div>
 </div>
 # 👋 Hi, I’m Sumon Debnath 👋
@@ -13,6 +13,26 @@
 # 🌱 I’m currently learning ...
 # 💞️ I’m looking to collaborate on ...
 # 📫 How to reach me ...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+	<style>
+		.title{
+			color: red;
+			font-size: 100px;
+		}
+	</style>
+</head>
+<body>
+    <div>
+	    <h1 class="title"> Welcome</h1>
+    </div>
+</body>
+</html>
 
 		
 
