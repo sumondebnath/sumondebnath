@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sumon Debnath</h1>
+<div align="center">
+   <h1>Hi there, I'm <a href="#">Sumon Debnath</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
+</div>
 <h3 align="center">A passionate backend & python developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumondebnath&label=Profile%20views&color=0e75b6&style=flat" alt="sumondebnath" /> </p>
