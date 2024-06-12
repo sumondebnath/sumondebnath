@@ -4,8 +4,8 @@
 <h3 align="center">A passionate backend & python developer from Bangladesh.</h3>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumondebnath&label=Profile%20views&color=0e75b6&style=flat" alt="sumondebnath" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumondebnath" alt="sumondebnath" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/itsumonme" target="blank"><img src="https://img.shields.io/twitter/follow/itsumonme?logo=twitter&style=for-the-badge" alt="itsumonme" /></a> </p>
 
