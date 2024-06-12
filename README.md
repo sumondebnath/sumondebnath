@@ -46,11 +46,15 @@
 
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sumondebnath"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sumondebnath" /></a><a href="https://ko-fi.com/sumondebnath"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sumondebnath" /></a></p><br><br>
-<br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumondebnath&show_icons=true&locale=en&layout=compact" alt="sumondebnath" /></p>
+<br/><br/>
+
+<div align="center">
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumondebnath&show_icons=true&locale=en&layout=compact" alt="sumondebnath" /></p>
+</div>
 
 <div align="center">
    <div>
+      <br/><br/><br/><br/>
       <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumondebnath&show_icons=true&locale=en" alt="sumondebnath" /></p>
    </div>
    <div>
