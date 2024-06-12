@@ -4,14 +4,14 @@
 <h3 align="center">A passionate backend & python developer from Bangladesh.</h3>
 
 
-<div align="center">
+<p align="center">
    <div>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumondebnath&label=Profile%20views&color=0e75b6&style=flat" alt="sumondebnath" /> </p>
    </div>
    <div>
       <p align="right"> <a href="https://twitter.com/itsumonme" target="blank"><img src="https://img.shields.io/twitter/follow/itsumonme?logo=twitter&style=for-the-badge" alt="itsumonme" /></a> </p>
    </div>
-</div>
+</p>
 
 
 
@@ -52,7 +52,8 @@
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumondebnath&show_icons=true&locale=en&layout=compact" alt="sumondebnath" /></p>
 </div>
 
-<div align="center">
+<p>
+   <div align="center">
    <div>
       <br/><br/><br/><br/>
       <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumondebnath&show_icons=true&locale=en" alt="sumondebnath" /></p>
@@ -60,7 +61,10 @@
    <div>
       <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sumondebnath&" alt="sumondebnath" /></p>
    </div>
-</div>
+      <br><br><br>
+   </div>
+</p>
+
 
 
 
