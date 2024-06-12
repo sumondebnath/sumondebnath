@@ -9,7 +9,7 @@
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumondebnath&label=Profile%20views&color=0e75b6&style=flat" alt="sumondebnath" /> </p>
    </div>
    <div>
-      <p align="left"> <a href="https://twitter.com/itsumonme" target="blank"><img src="https://img.shields.io/twitter/follow/itsumonme?logo=twitter&style=for-the-badge" alt="itsumonme" /></a> </p>
+      <p align="right"> <a href="https://twitter.com/itsumonme" target="blank"><img src="https://img.shields.io/twitter/follow/itsumonme?logo=twitter&style=for-the-badge" alt="itsumonme" /></a> </p>
    </div>
 </div>
 
@@ -46,15 +46,15 @@
 
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sumondebnath"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sumondebnath" /></a><a href="https://ko-fi.com/sumondebnath"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sumondebnath" /></a></p><br><br>
-
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumondebnath&show_icons=true&locale=en&layout=compact" alt="sumondebnath" /></p>
 
 <div align="center">
    <div>
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumondebnath&show_icons=true&locale=en" alt="sumondebnath" /></p>
+      <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumondebnath&show_icons=true&locale=en" alt="sumondebnath" /></p>
    </div>
    <div>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumondebnath&" alt="sumondebnath" /></p>
+      <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sumondebnath&" alt="sumondebnath" /></p>
    </div>
 </div>
 
