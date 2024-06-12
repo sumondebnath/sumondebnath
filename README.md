@@ -6,7 +6,7 @@
    <h3 align="center">A passionate backend & python developer from Bangladesh.</h3>
 </div>
 
-<p align="center"><a href="https://www.buymeacoffee.com/sumondebnath"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="sumondebnath" /></a></p><br>
+<p align="center"><a href="https://www.buymeacoffee.com/sumondebnath"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="sumondebnath" /></a></p><br><br/>
 
 🔗 &nbsp;**Connect with me:**
 <p align="left">
