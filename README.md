@@ -38,13 +38,13 @@
 
 - 🌱 I’m currently playing **Database Relations, PostgreSQL, Python, Django, Tailwind Css**
 
-- 👨‍💻 All of my projects are available at [https://example.com](https://example.com)
+- 👨‍💻 All of my projects are available at [https://sumondebnath.github.io/portfolio/](https://sumondebnath.github.io/portfolio/)
 
 - 😄 Pronouns: **Sumon Debnath**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sumon-debnath/,https://x.com/itSumonMe,**
 
-- 📄 Know about my experiences [example.com](example.com)
+- 📄 Know about my experiences [https://sumondebnath.github.io/portfolio/](https://sumondebnath.github.io/portfolio/)
 
 - ⚡ Fun fact **Active mostly at morning,**
 
