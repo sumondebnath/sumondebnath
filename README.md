@@ -8,11 +8,8 @@
 
 <p align="center"><a href="https://www.buymeacoffee.com/sumondebnath"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="sumondebnath" /></a></p><br><br/>
 <br/>
-🔗 &nbsp;**Connect with me:**
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/sumondebnath" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/sumon-debnath/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -49,7 +46,7 @@
 - ⚡ Fun fact **Active mostly at morning,**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other Links:</h3>
 <p align="left">
 <a href="https://twitter.com/itsumonme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsumonme" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumon-debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumon-debnath" height="30" width="40" /></a>
