@@ -36,15 +36,15 @@
 
 - 🔭 I’m currently working on [Fashion Ltd](https://main--fashionltd.netlify.app/)
 
-- 🌱 I’m currently playing **Database Relations, PostgreSQL, Python, Django, Tailwind Css**
+- 🌱 I’m currently playing Database Relations, PostgreSQL, Python, Django, Tailwind Css
 
 - 👨‍💻 All of my projects are available at [https://sumondebnath.github.io/portfolio/](https://sumondebnath.github.io/portfolio/)
 
 - 😄 Pronouns: **Sumon Debnath**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sumon-debnath/,https://x.com/itSumonMe,**
+- 📫 How to reach me **https://linktr.ee/sumondebnath**
 
-- 📄 Know about my experiences [https://sumondebnath.github.io/portfolio/](https://sumondebnath.github.io/portfolio/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BHQVquYx5SUuJJVSiHkJjvnftpD5RDtP/view?usp=sharing](https://drive.google.com/file/d/1BHQVquYx5SUuJJVSiHkJjvnftpD5RDtP/view?usp=sharing)
 
 - ⚡ Fun fact **Active mostly at morning,**
 
