@@ -14,9 +14,8 @@
 ## 👩‍💻 Problem Solving Profiles:
 <p align="left">
    <a href="https://leetcode.com/u/debnathsumon1708/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumondebnath" height="30" width="40" /></a>
-   <a href="https://codeforces.com/profile/SumonDebnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/2ff0c094b7e7f067d131ef73c98b263d4aa8db12/src/images/icons/Social/codingninjas.svg" alt="sumondebnath" height="30" width="40" /></a>
-   <a href="https://codeforces.com/profile/SumonDebnath" target="blank"><img align="center" src="https://user-images.githubusercontent.com/17960677/100546521-d3c7ea00-3287-11eb-9a5f-c4887c8c3ccf.png" alt="sumondebnath" height="30" width="40" /></a>
-
+   <a href="https://www.naukri.com/code360/profile/sumondebnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/2ff0c094b7e7f067d131ef73c98b263d4aa8db12/src/images/icons/Social/codingninjas.svg" alt="sumondebnath" height="30" width="40" /></a>
+   <a href="https://www.geeksforgeeks.org/user/debnathsujy46/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/17960677/100546521-d3c7ea00-3287-11eb-9a5f-c4887c8c3ccf.png" alt="sumondebnath" height="30" width="30" /></a>
    <a href="https://codeforces.com/profile/SumonDebnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sumondebnath" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/debnathsumon1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumondebnath" height="30" width="40" /></a>
 
