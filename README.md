@@ -15,6 +15,7 @@
 <p align="left">
    <a href="https://leetcode.com/u/debnathsumon1708/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumondebnath" height="30" width="40" /></a>
    <a href="https://codeforces.com/profile/SumonDebnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/2ff0c094b7e7f067d131ef73c98b263d4aa8db12/src/images/icons/Social/codingninjas.svg" alt="sumondebnath" height="30" width="40" /></a>
+   <a href="https://codeforces.com/profile/SumonDebnath" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="sumondebnath" height="30" width="40" /></a>
 
    <a href="https://codeforces.com/profile/SumonDebnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sumondebnath" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/debnathsumon1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumondebnath" height="30" width="40" /></a>
