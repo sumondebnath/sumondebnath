@@ -1,4 +1,4 @@
-![github_cover_02](https://i.ibb.co/HfMFnLYz/Dhaka-Bangladesh.jpg)
+![github_cover_02](https://i.ibb.co/vC7Sn8tN/Dhaka-Bangladesh-2.jpg)
 
 [![](https://visitcount.itsvg.in/api?id=sumondebnath&icon=1&color=12)](https://visitcount.itsvg.in)
 
