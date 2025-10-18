@@ -1,4 +1,4 @@
- ![github_cover]([](https://i.ibb.co.com/nJ3vdpt/Dhaka-Bangladesh.jpg))
+ ![github_cover](https://i.ibb.co.com/nJ3vdpt/Dhaka-Bangladesh.jpg)
 
 <!-- <img src="https://i.ibb.co.com/GQSG6gmX/Dhaka-Bangladesh-2.png" alt="Dhaka-Bangladesh-2" border="0"> -->
 
