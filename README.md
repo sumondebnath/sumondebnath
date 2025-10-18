@@ -1,5 +1,7 @@
 ![github_cover](https://i.ibb.co.com/GQSG6gmX/Dhaka-Bangladesh-2.png)
 
+<img src="https://i.ibb.co.com/GQSG6gmX/Dhaka-Bangladesh-2.png" alt="Dhaka-Bangladesh-2" border="0">
+
 [![](https://visitcount.itsvg.in/api?id=sumondebnath&icon=1&color=12)](https://visitcount.itsvg.in)
 
 ## 💫 About Me:
