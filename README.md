@@ -1,4 +1,4 @@
-![github_cover_02](https://ibb.co.com/9H5BDRPJ)
+![github_cover_02](https://ibb.co.com/9H5BDRPJ/)
 
 [![](https://visitcount.itsvg.in/api?id=sumondebnath&icon=1&color=12)](https://visitcount.itsvg.in)
 
