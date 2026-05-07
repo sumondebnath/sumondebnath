@@ -1,36 +1,46 @@
-## 💫 About Me:
-- 👋 Hi, I'm Sumon Debnath.
-- ⚡ Passionate about software development, python and machine learning.
-- 🌱 Currently exploring Relational database, python, cloud computing using AWS.
-- 🚀 Interested in collaborating on creating REST APIs, full-stack developement using Django REST Framework and Node.js.
-- 📫 Reach me through phone, email or linkedIn.
-- 👀 Fun Fact: "I am not great at the advice. Can I interest you in a sarcastic comment?"
+<h1 align="center">Hi 👋, I'm Sumon Debnath</h1>
+<p align="center">I am eager to begin my career in software development, bringing a strong foundation in C, C++, Data Structures and Algorithms, Object-Oriented Programming(OOP), Python, JavaScript and a proven ability to solve complex problems through competitive programming experience.</p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 👩‍💻 Problem Solving Profiles:
-<p align="left"><a href="https://leetcode.com/u/debnathsumon1708/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumondebnath" height="30" width="40" /></a> <a href="https://www.naukri.com/code360/profile/sumondebnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/2ff0c094b7e7f067d131ef73c98b263d4aa8db12/src/images/icons/Social/codingninjas.svg" alt="sumondebnath" height="30" width="40" /></a> <a href="https://www.geeksforgeeks.org/user/sumondebnath/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/17960677/100546521-d3c7ea00-3287-11eb-9a5f-c4887c8c3ccf.png" alt="sumondebnath" height="30" width="30" /></a> <a href="https://codeforces.com/profile/SumonDebnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sumondebnath" height="30" width="40" /></a> <a href="https://www.hackerrank.com/profile/debnathsumon1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumondebnath" height="30" width="40" /></a></p>
+<!-- 🔭 I’m currently working on **React JS,Python/Django**-->
 
+- 🌱 I’m currently learning **React, Python/django**
 
-## 💻 Tech Stack and Languages:
-<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></p>
+- 📫 How to reach me, Phone No:**(+880) 01854397705**
+- 📫 How to reach me, Email: **debnathsumon1708@gmail.com**
 
-
-## 📊 GitHub Stats:
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=sumondebnath&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="sumondebnath" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumondebnath&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="sumondebnath" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sumondebnath&theme=transparent&hide_border=true" alt="sumondebnath" /></p>
-
-![](https://github-contributor-stats.vercel.app/api?username=sumondebnath&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
-
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
-
+- ⚡ Fun fact **I am Funny**
 <br/>
+🌐 Socials:
 
-<a href="https://www.buymeacoffee.com/sumondebnath"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="sumondebnath" /></a>
+<a href="https://www.linkedin.com/in/sumon-debnath/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<!--a href="https://discord.gg/swapno_65418" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
+</a-->
+<a href="https://www.facebook.com/sumon1708" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+</a>
 
-<br/><br/>
+
+### 🔝 Top Contributed Repo
+
+<p align="center">
+<img
+    style="max-width: 100%; height: auto; margin: 10px 0;"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumondebnath&utcOffset=6&layout=compact&theme=gruvbox"
+    alt="Productive Time Card"
+/>
+
+  <img
+          style="max-width: 100%; height: auto;"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumondebnath&theme=gruvbox"
+          alt="Profile details"
+        />
+  <img src="https://github-contributor-stats.vercel.app/api?username=sumondebnath&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="Contributor Stats" style="margin-right: 10px;height: 250px;width:400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumondebnath&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height:250px; width:400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumondebnath&theme=gruvbox&hide_border=true" alt="Top Languages" style="height:300px;width:500px"/>
+
+</p>
