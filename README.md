@@ -14,7 +14,7 @@
   <a href="mailto:debnathsumon1708@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="REPLACE-WITH-PORTFOLIO-URL" target="_blank">
+  <a href="https://sumondebnath.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
