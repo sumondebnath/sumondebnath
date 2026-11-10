@@ -14,8 +14,8 @@
   <a href="mailto:debnathsumon1708@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.facebook.com/sumon1708" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="REPLACE-WITH-PORTFOLIO-URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -91,8 +91,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sumondebnath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumondebnath&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/sumondebnath/sumondebnath/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/sumondebnath/sumondebnath/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commits" width="48%" />
 </p>
 
 <p align="center">
