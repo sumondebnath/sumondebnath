@@ -81,10 +81,10 @@
 
 | Platform | Problems Solved |
 |---|---|
-| LeetCode | 250+ (contest rating: 1535) |
+| LeetCode | 300+ (contest rating: 1535) |
 | Codeforces | 200+ |
 | CodeChef | 100+ |
-| **Total** | **550+** |
+| **Total** | **600+** |
 
 ---
 
